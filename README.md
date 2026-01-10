@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Amira, a Grade 8 student passionate about coding, reading, and exploring new topics!
+Hi, I'm Amira, a Grade 7 student passionate about coding, reading, and exploring new topics!
 
 ### About Me 🌟
 - 🔭 I'm currently working on robotics projects with my school robotics team
