@@ -13,7 +13,6 @@ Hi, I'm Amira, a student passionate about coding, reading, and exploring new top
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I love creating crafts, my favourite food is ice cream, and I'm a Pisces ♓
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lillylike123&label=Profile%20views&color=0e75b6&style=flat" alt="lillylike123" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
