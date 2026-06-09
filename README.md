@@ -1,3 +1,4 @@
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 ## Hi there 👋
 
 Hi, I'm Amira, a student passionate about coding, reading, and exploring new topics!
