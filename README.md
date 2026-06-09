@@ -5,8 +5,8 @@
 Hi, I'm Amira, a student passionate about coding, reading, and exploring new topics!
 
 ### About Me 🌟
-- 🔭 I'm currently working on robotics projects with my school robotics team
-- 🌱 I've been coding for 4 years and love learning new technologies
+- 🔭 I'm currently working on creating some cool websites and games with JavaScript (Planning to make a Discord or Slack bot as well)
+- 🌱 I've been coding for 2 years and love learning new technologies
 - 👯 I'm always interested in collaborating on creative projects
 - 💬 Ask me about coding, robotics, reading recommendations, or craft ideas!
 - 📫 How to reach me: amira.nava03@gmail.com
