@@ -1,4 +1,5 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+<img width="1500" height="500" alt="Amira navaneethan" src="https://github.com/user-attachments/assets/e219ac84-5d77-40c8-afb3-409480e79488" />
+
 ## Hi there 👋
 
 Hi, I'm Amira, a student passionate about coding, reading, and exploring new topics!
